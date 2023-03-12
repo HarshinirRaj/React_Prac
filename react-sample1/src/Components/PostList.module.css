@@ -1,0 +1,12 @@
+.posts {
+    list-style: none;
+    max-width: 100rem;
+    margin: 1rem auto;
+    margin: 1rem auto;
+    margin-left: 6%;
+    padding: 1rem 0;
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(3, 30%);
+    justify-content: center;
+  }
